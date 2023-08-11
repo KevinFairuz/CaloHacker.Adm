@@ -1,3 +1,4 @@
+// elsint
 {
   "extends": "next/core-web-vitals"
 }
